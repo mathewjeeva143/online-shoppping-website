@@ -1,2 +1,7 @@
-# online-shoppping-website
-Online Shopping Website Overview Welcome to the Online Shopping Website project! 
+# online-shopping-with-advanced-admin-page
+Updated version
+
+
+online shopping system with both admin and user layouts.
+
+admin login details  Email=admin@gmail.com and Password=123456789.
